@@ -1,0 +1,27 @@
+h1 {
+    margin:0
+}
+footer {
+    text-align: center;
+    font-style: italic;
+}
+strong {
+    font-style: normal;
+}
+.container {
+    padding-top: 20px;
+    max-width: 600px;
+}
+.data {
+    border: 1px solid black;
+    margin: 15px;
+}
+.data div {
+    padding:5px;
+}
+.currency_title {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+}
